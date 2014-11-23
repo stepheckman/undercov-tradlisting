@@ -24,9 +24,6 @@ do "$code\3 match results.do"
 
 do "$code\4 appendix.do"
 
-* look for relationship between coverage and response
-do "$code\5 coverage response.do"
-
 do "$code\7 undercov models.do"
 
 do "$code\8 bias.do"
