@@ -5,7 +5,7 @@ Started: 10/13/2009;
 
 master code for paper 2 analysis
 
-input datasets: 
+input datasets from SAS: 
 	HUlist 		-- HU listing level dataset
 	HU			-- HU level dataset
 
